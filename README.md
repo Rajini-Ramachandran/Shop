@@ -1,7 +1,3 @@
-Here you go — the README.md version (markdown format) that you can directly paste into your GitHub repo:
-
----
-
 # 🍔 Food Shop Website
 
 ## 📝 Introduction
@@ -106,5 +102,3 @@ food-shop/
 
 This project is part of my journey to become a **Full-Stack MERN Developer**.
 I’m building everything step-by-step to understand each layer clearly.
-
-If you want to improve or add something to the README, tell me!
