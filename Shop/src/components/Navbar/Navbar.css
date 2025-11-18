@@ -5,16 +5,18 @@
     align-items: center;
 }
 
-.navbar .logo{
-    width: 150px;
-}
 
+.Navbar .logo {
+  height: 120px; 
+  width: auto;   
+  margin-right: 10px; 
+}
 .navbar-menu{
     display: flex;
     list-style: none;
     gap: 20px;
     color: #49557e;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .navbar-right{

@@ -6,7 +6,7 @@ const ExploreMenu = () => {
   return (
     <div className='explore-menu' id='explore-menu'>
         <h1>Explore Our Menu!</h1>
-        <p className='explore-menu-text'>Choose from a diverse menu featuring a delectable array of dishes. Our mission is to satisfy your cravings and elevate your dining experience, One delicious meal at a time.</p>
+        <p className='explore-menu-text'>We offer a delectable and authentic menu dedicated exclusively to the vibrant world of Indian Chaat. Our mission is to satisfy your cravings and guarantee an unforgettable, tangy experience, one zesty bite at a time.</p>
         <div className="explore-menu-list">
             {menu_list.map((item, index)=>{
                 return (
